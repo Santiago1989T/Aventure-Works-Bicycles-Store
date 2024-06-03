@@ -1,7 +1,8 @@
+# Reporte - Aventure Works Bicycles Store
 
-
-![Aventure Works Bicycles Store 🚲 ](https://raw.githubusercontent.com/Santiago1989T/Aventure-Works-Bicycles-Store/main/image.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Santiago1989T/Aventure-Works-Bicycles-Store/main/image.png" alt="Aventure Works Bicycles Store 🚲">
+</p>
 
 sobresale como una empresa multinacional líder en la fabricación y comercialización de bicicletas, con una sólida presencia en los mercados de Norteamérica, Europa y Asia. Con una plantilla de 500 empleados y una red de ventas regionalmente ubicada, Aventure Works Bicycles se ha consolidado como referente en la industria de repuestos y accesorios para bicicletas. A pesar de su destacada posición, la empresa enfrenta la necesidad de disponer de indicadores de rendimiento que cumplan con las exigencias informativas para una toma de decisiones eficaz. 📊
 
