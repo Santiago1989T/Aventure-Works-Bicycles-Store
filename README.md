@@ -19,3 +19,6 @@ El proyecto se llevará a cabo en los siguientes pasos:
 3. **Visualizaciones personalizadas:** Se desarrollarán visualizaciones interactivas y personalizadas que faciliten la comprensión de los datos y permitan a los usuarios interactuar con la información de manera dinámica. Esto es esencial para una presentación clara y efectiva de los insights más importantes, apoyando la toma de decisiones basada en datos. 📈
 
 Este enfoque proporcionará a Aventure Works Bicycles una herramienta invaluable para entender y optimizar su desempeño en el mercado, permitiéndole tomar decisiones estratégicas fundamentadas en datos sólidos.
+
+# Imagenes del Dashboard
+
