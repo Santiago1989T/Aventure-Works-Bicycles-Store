@@ -20,5 +20,5 @@ El proyecto se llevará a cabo en los siguientes pasos:
 
 Este enfoque proporcionará a Aventure Works Bicycles una herramienta invaluable para entender y optimizar su desempeño en el mercado, permitiéndole tomar decisiones estratégicas fundamentadas en datos sólidos.
 
-# Imagenes del Dashboard
+
 
